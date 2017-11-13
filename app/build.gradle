@@ -18,8 +18,8 @@ android {
         applicationId 'com.smartpack.kernelupdater'
         minSdkVersion 15
         targetSdkVersion 26
-        versionCode 0
-        versionName "0.1-" + getDate()
+        versionCode 1
+        versionName "1.0-" + getDate()
         vectorDrawables.useSupportLibrary = true
         archivesBaseName = "Auto Kernel Updater-v$versionName"
     }
