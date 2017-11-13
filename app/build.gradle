@@ -21,7 +21,9 @@ android {
         versionCode 0
         versionName "0.1-" + getDate()
         vectorDrawables.useSupportLibrary = true
+        archivesBaseName = "Auto Kernel Updater-v$versionName"
     }
+
     buildTypes {
         release {
             signingConfig signingConfigs.release
