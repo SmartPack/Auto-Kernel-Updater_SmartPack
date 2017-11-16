@@ -20,9 +20,9 @@
     <string name="dialog_title_changelog">Change-logs</string>
     <string name="dialog_title_readyToInstall">Ready to install</string>
     <string name="dialog_title_md5mismatch">MD5 mismatch</string>
-    <string name="dialog_title_rootFail">Root is required</string>
+    <string name="dialog_title_rootFail">Root access is required</string>
 
-    <string name="dialog_content_about">Auto Kernel Updater by sunilpaulmathew @xda-developers.com, aimed to deliver timely updates to SmartPack-Kernel. This app is based on the original work by %1$s and ALDRIN HOLMES.</string>
+    <string name="dialog_content_about">Auto Kernel Updater is a simple app aimed to deliver timely updates to SmartPack-Kernel. This app is based on the original work by %1$s and ALDRIN HOLMES.</string>
     <string name="dialog_content_about1">If you like SmartPack-Kernel, please consider to donate to me, since it will help me to continue this project more active, though it is not at all necessary.</string>
 
     <string name="card_title_latestVersion">Available Kernel\'s</string>
@@ -45,13 +45,13 @@
     <string name="msg_activeDownloads">You can\'t leave, you have active downloads</string>
     <string name="msg_invalidFilename">Invalid filename</string>
     <string name="msg_invalidProxy">Invalid proxy configuration</string>
-    <string name="msg_troubleProxy">Swipe down to refresh. Make sure that you have a valid Internet connection. Still facing problem? Don’t worry! Feel free to contact me with more details.</string>
+    <string name="msg_troubleProxy">Swipe down to refresh. Make sure that you have a valid Internet connection. Still facing problem? Don’t worry! Feel free to contact me in xda/telegram (user name: sunilpalmathew) with more details.</string>
     <string name="msg_textHighlighted">Text highlighted in yellow</string>
     <string name="msg_textNotFound">Nothing found</string>
     <string name="msg_restartApplication">Changes will take effect after restarting the application.</string>
 
-    <string name="btn_whatsNew">Change-log</string>
-    <string name="btn_getIt">Get it now</string>
+    <string name="btn_changelog">Change-log</string>
+    <string name="btn_download">Download</string>
     <string name="btn_ok">Okay</string>
     <string name="btn_cancel">Cancel</string>
     <string name="btn_dismiss">Dismiss</string>

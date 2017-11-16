@@ -22,7 +22,7 @@
 4. Tick “*Experimental builds*” in the Settings to receive test builds (only if you wish)
 5. Swipe to refresh and wait till the new releases (if any) appears in your app screen (otherwise wait for the notification).
 6. Click “*Change-logs*” to see the changes in a new version.
-7. Click “*Get-it*” and follow the on screen instructions to flash the new Kernel.
+7. Click “*Download*” and follow the on screen instructions to flash the new Kernel.
 8. Enjoy your new Kernel.
 
 ## Known issues
