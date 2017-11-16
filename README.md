@@ -25,6 +25,6 @@
 7. Click “*Get-it*” and follow the on screen instructions to flash the new Kernel.
 8. Enjoy your new Kernel.
 
-## Known Issues
-1. The app will still shows notifications about the available kernel versions even after it is already installed. As a temporary workaround, you may mute the notification of this app from the status-bar, though it will force you to manually check for updates every time.
+## Known issues
+1. The app will still shows notifications about the available kernel versions even after they are installed. As a temporary workaround, you may mute the notification of this app from the status-bar, though it will force you to manually check for updates every time.
 2. The auto flashing will not give an option to wipe cache after flashing kernel (though it is not at all necessary for flashing a kernel).
