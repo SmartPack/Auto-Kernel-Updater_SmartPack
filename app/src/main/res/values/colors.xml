@@ -5,11 +5,11 @@
     <color name="card_text">#ffffff</color>
     <color name="card_text_light">#d5d5d5</color>
     <color name="card_text_soft">#ffb9b9b9</color>
-    <color name="card_separator">#282828</color>
+    <color name="card_separator">#ffff1b70</color>
     <color name="card_shadow">#dbdbdb</color>
     <color name="card_background">#313131</color>
-    <color name="primary">#E53935</color>
-    <color name="primary_dark">#C62828</color>
+    <color name="primary">#ff33b5e5</color>
+    <color name="primary_dark">#ff303030</color>
     <color name="accent">#ffffaa21</color>
     <color name="navBarColor">#C62828</color>
     <color name="primaryText">#ffffff</color>
@@ -17,6 +17,6 @@
 
     <!-- custom colors -->
     <color name="blue_marine">#78909c</color>
-    <color name="blue_marine_translucent">#6c78909c</color>
+    <color name="blue_marine_translucent">#ff33b5e5</color>
     <color name="black_seeThrough">#50000000</color>
 </resources>
