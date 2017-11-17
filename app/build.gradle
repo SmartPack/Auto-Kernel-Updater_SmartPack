@@ -19,7 +19,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
-        versionName "1.0-" + getDate()
+        versionName "1.1-" + getDate()
         vectorDrawables.useSupportLibrary = true
         archivesBaseName = "Auto Kernel Updater-v$versionName"
     }
