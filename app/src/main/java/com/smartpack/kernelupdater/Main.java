@@ -596,9 +596,9 @@ public class Main extends ActionBarActivity implements SwipeRefreshLayout.OnRefr
         if (preferences.getString(Keys.KEY_SETTINGS_DOWNLOADLOCATION, null) == null) {
             editor.putString(Keys.KEY_SETTINGS_DOWNLOADLOCATION, Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS).getAbsolutePath() + File.separator);
             Dialog d = new AlertDialog.Builder(this)
-                    .setMessage(R.string.msg_twrp)
+                    .setMessage(R.string.msg_welcome)
                     .setNeutralButton(R.string.btn_ok, null)
-                    .setTitle("TWRP")
+                    .setTitle("IMPORTANT")
                     .show();
             ((TextView) d.findViewById(android.R.id.message)).setTypeface(Typeface.createFromAsset(getAssets(), "Roboto-Regular.ttf"));
         }

@@ -41,7 +41,7 @@
     <string name="msg_updateFound">A new kernel version is available</string>
     <string name="msg_changeable">This setting can be changed from the settings section</string>
     <string name="msg_noKernelForYourROM">There\'s no new %2$s kernel\'s available</string>
-    <string name="msg_twrp">Automatic installation works only with TWRP recovery. CWM is not supported.</string>
+    <string name="msg_welcome">Automatic installation works only with TWRP. CWM is not supported.\n\nPlease make sure to manually give permission to access “Storage” as it is necessary to download new Kernel zip file(s).</string>
     <string name="msg_activeDownloads">You can\'t leave, you have active downloads</string>
     <string name="msg_invalidFilename">Invalid filename</string>
     <string name="msg_invalidProxy">Invalid proxy configuration</string>
