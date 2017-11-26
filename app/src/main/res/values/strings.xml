@@ -22,7 +22,7 @@
     <string name="dialog_title_md5mismatch">MD5 mismatch</string>
     <string name="dialog_title_rootFail">Root access is required</string>
 
-    <string name="dialog_content_about">Auto Kernel Updater is a simple app aimed to deliver timely updates to SmartPack-Kernel. This app is based on the original work by %1$s and ALDRIN HOLMES.</string>
+    <string name="dialog_content_about">*About Auto Kernel Updater*\n\nAuto Kernel Updater is a simple app aimed to deliver timely updates to SmartPack-Kernel. This app is based on the original work by %1$s and ALDRIN HOLMES.</string>
     <string name="dialog_content_about1">If you like SmartPack-Kernel, please consider to donate to me, since it will help me to continue this project more active, though it is not at all necessary.</string>
 
     <string name="card_title_latestVersion">Available Kernel\'s</string>
