@@ -23,6 +23,9 @@ kltekor: SM-G900K/L/S
 kltespr: SM-G900P/I
 klteduos: SM-G900FD, SM-G900MD
 
+## Compatibility
+This app is only compatible with *Stock (Marshmallow)* and *Lineage-OS (Nougat)* based ROMs. 
+
 ## How to use
 1. Download and install the latest app version.
 2. Go to app settings and give permission to access “*Storage*” (necessary to download Kernel zip files).
