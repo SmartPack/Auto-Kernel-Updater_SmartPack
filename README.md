@@ -15,6 +15,14 @@
 1. Root access
 2. TWRP
 
+## Supported devices
+*This app currently supports the following devices*
+
+klte: SM-G900F, SM-G900V, SM-S902L
+kltekor: SM-G900K/L/S
+kltespr: SM-G900P/I
+klteduos: SM-G900FD, SM-G900MD
+
 ## How to use
 1. Download and install the latest app version.
 2. Go to app settings and give permission to access “*Storage*” (necessary to download Kernel zip files).
