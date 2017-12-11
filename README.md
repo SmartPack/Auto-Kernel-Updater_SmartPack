@@ -24,7 +24,11 @@ kltespr: SM-G900P/I
 klteduos: SM-G900FD, SM-G900MD
 
 ## Compatibility
-This app is only compatible with *Stock (Marshmallow)* and *Lineage-OS (Nougat)* based ROMs. 
+This app is only compatible with *Stock (Marshmallow)* and *Lineage-OS (Nougat)* based ROMs.
+
+## Relevant links
+[SmartPack-Kernel for Lineage-OS 14.1 (kltexxx)](https://forum.xda-developers.com/galaxy-s5/unified-development/kernel-project-kltexxx-t3564206)
+[SmartPack-Kernel for Stock Marshmallow (kltexxx)](https://forum.xda-developers.com/galaxy-s5/development/kernel-smartpack-project-stock-t3568810)
 
 ## How to use
 1. Download and install the latest app version.
