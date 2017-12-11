@@ -19,8 +19,11 @@
 *This app currently supports the following devices*
 
 klte: SM-G900F, SM-G900V, SM-S902L
+
 kltekor: SM-G900K/L/S
+
 kltespr: SM-G900P/I
+
 klteduos: SM-G900FD, SM-G900MD
 
 ## Compatibility
