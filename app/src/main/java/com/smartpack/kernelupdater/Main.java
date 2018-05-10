@@ -63,6 +63,11 @@ public class Main extends ActionBarActivity implements SwipeRefreshLayout.OnRefr
     private Handler mHandler = new Handler() {
         @Override
         public void handleMessage(Message msg) {
+
+	if (Build.VERSION.SDK_INT >= 23) {
+            requestPermissions(new String[]{android.Manifest.permission.WRITE_EXTERNAL_STORAGE}, 1);
+	}
+
             if (refreshLayout != null)
                 refreshLayout.setRefreshing(true);
 
